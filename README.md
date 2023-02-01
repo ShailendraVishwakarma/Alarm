@@ -1,1 +1,1 @@
-# Alarm
+# boilerplate-react-functional-public
